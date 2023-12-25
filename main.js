@@ -24,3 +24,6 @@ rl.on("line", function(line) {
     solution(n, list);
     process.exit();
 });
+
+// 시간 계산하기
+// time echo 1000 | node algo_book/ch3/linear_search.js
